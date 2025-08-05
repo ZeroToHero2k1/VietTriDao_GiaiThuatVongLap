@@ -6,6 +6,6 @@ public class Bai30 {
             int next=a+b;
             a=b;
             b=next;
-        }while (b<=n);
+        }while (a<=n);
     }
 }

@@ -97,6 +97,30 @@ public class Main {
         System.out.println(" ");
         System.out.println("Bai30");
         Bai30.inDaySoFibonance(n);
+        System.out.println(" ");
+        System.out.println("Bai31");
+        Bai31.mang2ChieuDoWhile(n);
+        System.out.println(" ");
+        System.out.println("Bai32");
+        Bai32.TamGiacVuongDoWhile(n);
+        System.out.println(" ");
+        System.out.println("Bai33");
+        Bai33.tamGiacCanDoWhile(n);
+        System.out.println(" ");
+        System.out.println("Bai35");
+        Bai35.thapToNhi(12);
+        System.out.println(" ");
+        System.out.println("Bai36");
+        Bai36.kiemTraSoNguyenDuongc1();
+        Bai36.kiemTraSoNguyenDuongc2();
+        System.out.println(" ");
+        System.out.println("Bai37");
+        Bai37.inDaySoChanAmChanC1(12);
+        System.out.println(" ");
+        Bai37.inDaySoChanAmChanC2(12);
+        System.out.println(" ");
+        System.out.println("Bai38");
+        Bai38.inDaySoKhoNhat(18);
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 

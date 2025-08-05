@@ -12,7 +12,7 @@ public class Bai27 {
                 k++;
             }
             i++;
-            System.out.println(" ");
+            System.out.println();
         }
     }
 }
