@@ -62,7 +62,41 @@ public class Main {
         System.out.println(" ");
         System.out.println("Bai23");
         Bai23.VeHinhTamGiacVuong1(n);
-
+        System.out.println(" ");
+        Bai23.VeHinhTamGiacVuong2(n);
+        System.out.println(" ");
+        Bai23.VeHinhTamGiacVuong3(n);
+        System.out.println(" ");
+        Bai23.VeHinhTamGiacVuong4(n);
+        System.out.println(" ");
+        Bai23.VeHinhTamGiacVuong5(n);
+        System.out.println(" ");
+        Bai23.VeHinhTamCan1(n);
+        System.out.println(" ");
+        Bai23.VeHinhTamCan2(n);
+        System.out.println("Bai24");
+        Bai24.veHinhZNguoc(n);
+        System.out.println(" ");
+        Bai24.veHinhZ(n);
+        System.out.println(" ");
+        Bai24.veHinhVuongXenKe(n);
+        System.out.println(" ");
+        Bai24.veHinhVuongN(n);
+        System.out.println(" ");
+        System.out.println("Bai25");
+        Bai25.duyetMang2ChieuBangWhile(n);
+        System.out.println("Bai26");
+        Bai26.TamGiacVuongDungWhile(n);
+        System.out.println("Bai27");
+        Bai27.TamGiacCanBangVongLapWhile(n);
+        System.out.println("Bai28");
+        Bai28.inDaySoDoWhile(n);
+        System.out.println(" ");
+        System.out.println("Bai29");
+        Bai29.inDaySoLeDoWhile(n);
+        System.out.println(" ");
+        System.out.println("Bai30");
+        Bai30.inDaySoFibonance(n);
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 
